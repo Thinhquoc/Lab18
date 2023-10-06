@@ -1,0 +1,33 @@
+.container
+{
+    position: absolute;
+    top: 50%;
+    left:10%;
+    color: white;
+}
+.btn-a
+{
+    padding: 10px 30px;
+    background-color: dodgerblue;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.bg-img1
+{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(img/360_F_549863991_6yPKI08MG7JiZX83tMHlhDtd6XLFAMce.jpg);
+}
+.bg-img2
+{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(img/pngtree-flat-creative-gold-stars-shine-light-effect-background-image_313493.jpg);
+}
+.bg-img3
+{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(img/images\ \(1\).jpg);
+}
